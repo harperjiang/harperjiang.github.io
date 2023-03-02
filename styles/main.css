@@ -1,0 +1,29 @@
+@IMPORT url("page.css");
+
+@IMPORT url("textformat.css");
+
+@IMPORT url("menu.css");
+
+div {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body {
+	font-size: 14px;
+}
+
+.page_holder {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.clear {
+	clear: both;
+	height: 0px;
+}
+
+li.date {
+	font-weight:bold;
+	margin-top:10px;
+}

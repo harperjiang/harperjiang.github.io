@@ -1,0 +1,31 @@
+.menu_bar {
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	overflow: auto;
+}
+
+.menu_bar ul {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	overflow: auto;
+	padding-left: 0px;
+}
+
+.menu_bar li {
+	display: block;
+	float: left;
+	width: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.menu_bar li a {
+	text-decoration: none;
+	color: white;
+}
+
+.menu_bar li a:hover {
+	color: #bbbbbb;
+}
